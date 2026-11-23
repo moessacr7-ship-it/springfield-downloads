@@ -21,4 +21,4 @@ You do not need a Discord bot token or ERLC API key to use the app. Those settin
 
 Springfield-CAD-Setup.exe, version 1.0.0
 
-SHA-256: `181001ce5aab38d36a3081b31276697a2074e38ffd87074a239f78900056d42f`
+SHA-256: `e672e480711b9b45e48037e478122c5b99bb0ee31b44e565ab98fff68d4cfb9f`
