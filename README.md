@@ -6,7 +6,7 @@ Windows downloads for the Springfield community. This repository contains releas
 
 The desktop app opens the full [Springfield CAD](https://cad.springfieldrp.qd.je/). Sign in with the Discord account you use in Springfield. Your existing server roles decide which tools you can use. An internet connection is required.
 
-Approved downloads appear on the [Releases page](https://github.com/moessacr7-ship-it/springfield-downloads/releases). The current installer is for Windows 10/11 x64 and is unsigned.
+Approved downloads appear on the [Releases page](https://github.com/moessacr7-ship-it/springfield-downloads/releases). The current installer is for Windows x64 and is unsigned.
 
 You do not need a Discord bot token or ERLC API key to use the app. Those settings stay on the server. The app is separate from Springfield Overlay.
 
